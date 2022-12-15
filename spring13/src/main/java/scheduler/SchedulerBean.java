@@ -28,11 +28,12 @@ public class SchedulerBean {
 		Calendar calendat = Calendar.getInstance();
 		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd  HH:mm:ss");
 		logger.info("스케줄링 실행"+ dateFormat.format(calendat.getTime()));
+	//	System.out.println("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");
 	//	System.out.println("스케줄링 실행"+dateFormat.format(calendat.getTime()));
 	
 	}
 }
-
+ /*gd*/
 /*
 
 /* CRON 스케줄러 정규 표현식
